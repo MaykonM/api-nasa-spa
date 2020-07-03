@@ -4,4 +4,4 @@ Feito com React, Redux e Axios.
 
 Realiza uma busca atraves de uma data informada pelo usuário para consultar a "NASA image of the day" e sua descrição.
 
-
+Página do projeto no Heroku - https://react-apinasaimageoftheday.herokuapp.com/
